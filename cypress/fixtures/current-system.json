@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "system": "Natural Gas"
+        },
+        {
+            "system": "Propane"
+        },
+        {
+            "system": "Oil"
+        },
+        {
+            "system": "Electric"
+        },
+        {
+            "system": "Heat Pump"
+        }
+    ]
+}

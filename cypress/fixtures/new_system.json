@@ -1,0 +1,28 @@
+{
+    "new_data": [
+        {
+            "system": "Natural Gas"
+        },
+        {
+            "system": "Propane"
+        },
+        {
+            "system": "Oil"
+        },
+        {
+            "system": "Electric"
+        },
+        {
+            "system": "Heat Pump"
+        },
+        {
+            "system": "Dual Fuel-Natural Gas"
+        },
+        {
+            "system": "Dual Fuel-Oil"
+        },
+        {
+            "system": "Dual Fuel-Propane"
+        }
+    ]
+}

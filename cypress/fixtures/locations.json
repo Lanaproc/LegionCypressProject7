@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "state": "Ontario",
+            "city": "Toronto"
+        },
+        {
+            "state": "Quebec",
+            "city": "Montreal"
+        },
+        {
+            "state": "Nova Scotia",
+            "city": "Halifax"
+        },
+        {
+            "state": "New Brunswick",
+            "city": "Fredrickton"
+        },
+        {
+            "state": "Manitoba",
+            "city": "Winnepeg"
+        },
+        {
+            "state": "Saskatechewan",
+            "city": "Regina"
+        },
+        {
+            "state": "Alberta",
+            "city": "Calgary"
+        },
+        {
+            "state": "Northwest Territory",
+            "city": "Fort Smith"
+        }
+    ]
+}
